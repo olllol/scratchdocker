@@ -1,4 +1,4 @@
-### scratchdocker
+### Scratchdocker
 Not every docker have an os ;)
 
 Try 
